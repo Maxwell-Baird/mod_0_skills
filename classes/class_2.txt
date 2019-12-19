@@ -1,0 +1,13 @@
+Class: table
+
+Attributes:
+numberOfCustomers (integer)
+colorOfTableSheets (string)
+isClean (boolean)
+foodOnTable (boolean)
+
+Methods:
+customersArrive (adds 1 to numberOfCustomers)
+changeTableCloth (changes colorOfTableSheets)
+cleanTable (changes isClean to true)
+bringFood (changes foodOnTable to true)
