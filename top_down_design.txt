@@ -1,0 +1,41 @@
+How to become a Turing student
+  1. Apply
+    1.1 Make an account
+      1.1.1 Choose an email that you use often
+    1.2 Fill out form about yourself
+      1.2.1 Upload your resume or answer some questions about yourself
+      1.2.2 Be honest
+    1.3 Take a test
+      1.3.1 Prepare for the test
+        1.3.1.1 Schedule time where you won't be disrupted
+        1.3.1.2 Bring paper
+        1.3.1.3 Bring a pencil
+      1.3.2 Take the test
+        1.3.2.1 Answer question
+          1.3.2.1.1 Think logically about the question
+          1.3.2.1.2 Write down all the clues
+        1.3.2.2 Double check your answer before submitting
+  2. Interview
+    2.1 Choose interview type
+      2.1.1 Choose between in-person or do a video call
+        2.1.1.1 If a video call make sure you have the equipment for the call
+    2.2 Choose date
+    2.3 Wait for the date of interview
+    2.4 Attend interview
+      2.4.1 Mentally prepare yourself
+      2.4.2 Be friendly
+      2.4.3 Answer the interviewer questions
+        2.4.3.1 Explain in much detail as you need
+        2.4.3.2 Take your time to think things through
+  3. Pay tuition
+    3.1 Pay for Laptop
+      3.1.1 Add your bank account
+      3.1.2 Make sure you have the funds in account
+    3.2 Choose payment method for Turing
+      3.2.1 Talk to financial advisor
+    3.3 Pay
+  4. Attend mod 0
+    4.1 Choose which mod 0 to attend
+    4.2 Prep for mod 0
+    4.3 Attend session
+    4.4 Do homework
