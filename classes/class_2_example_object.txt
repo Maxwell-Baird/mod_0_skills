@@ -1,0 +1,13 @@
+object: table
+
+Attributes:
+numberOfCustomers: 2
+colorOfTableSheets: "white"
+isClean: false
+foodOnTable: false
+
+Methods:
+customersArrive: 1 + 2 = 3
+changeTableCloth: colorOfTableSheets = "Red"
+cleanTable: isClean = true
+bringFood: foodOnTable = true
