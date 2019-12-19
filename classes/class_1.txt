@@ -3,12 +3,11 @@ Class: Oven
 Attributes:
 ovenTemperature (integer)
 isClean (boolean)
-foodInOven (string)
 numberOfItemsInOven (integer)
 timer (integer)
 
 Methods:
 cleanOven (changes isClean to true)
 changeTemperature (adds 50 ovenTemperature)
-addFoodToCook (changes foodInOven name and adds 1 to numberOfItemsInOven)
+addFoodToCook (adds 1 to numberOfItemsInOven)
 setTimer (adds 10 to timer)
