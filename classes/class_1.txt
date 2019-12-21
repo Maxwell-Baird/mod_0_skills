@@ -8,6 +8,6 @@ timer (integer)
 
 Methods:
 cleanOven (changes isClean to true)
-changeTemperature (adds 50 ovenTemperature)
+changeTemperature (changes ovenTemperature to a new user inputted value)
 addFoodToCook (adds 1 to numberOfItemsInOven)
 setTimer (adds 10 to timer)

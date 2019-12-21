@@ -1,12 +1,12 @@
 Object: silverOven
 Attributes:
-ovenTemperature: 300
+ovenTemperature: 450
 isClean: false
 numberOfItemsInOven: 1
 timer: 0
 
 Methods:
 cleanOven: isClean = true
-changeTemperature: 300 + 50 = 350
+changeTemperature: ovenTemperature = 315
 addFoodToCook: 1 + 1 = 2
 setTimer: 0 + 10 = 10
